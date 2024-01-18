@@ -4,6 +4,7 @@
   "description": "Test/demo site for [Butterfloat](https://worldmaker.net/butterfloat/)",
   "main": "index.js",
   "scripts": {
+    "start": "http-server",
     "test": "node --test"
   },
   "author": "Max Battcher <me@worldmaker.net>",
