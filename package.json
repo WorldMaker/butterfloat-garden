@@ -1,6 +1,7 @@
 {
   "name": "butterfloat-garden",
   "version": "1.0.0",
+  "type": "module",
   "description": "Test/demo site for [Butterfloat](https://worldmaker.net/butterfloat/)",
   "main": "index.js",
   "scripts": {
